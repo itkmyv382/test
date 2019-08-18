@@ -1,0 +1,56 @@
+/*見出し*/
+h1 {
+    font-size: 24px;
+    margin: 0px;
+    }
+/*本文*/
+body {
+   font-size: 14px;
+   background-color: #fafafa;
+   
+  }
+
+
+.content {
+          background-color: #fff;
+          width: 600px;
+          margin:10px auto;
+          border:1px solid #d1d1d1;
+          padding:30px;
+          }
+
+.control {
+          margin-bottom: 3em;
+         }
+
+.required {
+           padding: 3px;
+           margin-left: .3em;
+           background-color: #fcc;
+           font-size: .9em;
+           color: red;
+           font-weight: bold;
+          }
+
+input {
+       border:none;
+       border-bottom: 1px solid #d1d1d1;
+       font-size: 1.2em;
+       width: 100%;
+       padding: 8px;
+       }
+
+button {
+        width:20%;
+        background-color: #2096F3;
+        border: none;
+        color: #FFF;
+        padding: 5px;
+        border-radius: 3px;
+        box-shadow:5px 5px 5px rgba(0, 0, 0, .4);
+        }
+
+label {
+       display: block;
+       margin-bottom: 1em;
+      }
